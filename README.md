@@ -1,5 +1,3 @@
-# Mact_Prediction_ML_Pipeline
-
 # 🚗 MACT Compensation Prediction using Machine Learning
 
 A Machine Learning pipeline for predicting **Motor Accident Claims Tribunal (MACT) compensation** for **death cases** using **Ridge Regression with automatic hyperparameter tuning (RidgeCV)**.
